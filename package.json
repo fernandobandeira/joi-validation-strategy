@@ -48,7 +48,7 @@
     "eslint-config-airbnb": "0.0.8",
     "eslint-plugin-react": "^3.3.0",
     "husky": "^0.8.1",
-    "joi": "^6.7.0",
+    "joi-browser": "^13.0.1",
     "karma": "^0.13.9",
     "karma-browserify": "^4.3.0",
     "karma-chrome-launcher": "^0.2.0",
@@ -58,7 +58,7 @@
     "rimraf": "^2.4.3"
   },
   "peerDependencies": {
-    "joi": ">=5.1.0"
+    "joi-browser": ">=13.0.1"
   },
   "dependencies": {
     "he": "^0.5.0",
